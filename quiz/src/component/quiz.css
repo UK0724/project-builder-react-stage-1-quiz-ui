@@ -1,0 +1,26 @@
+body{
+    background-color: #40407A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#head
+{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.btn
+{
+    border-radius: 33px;
+    background-color: #57B846;
+    color: white;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    width: 250px;
+    height: 40px;
+}
+
